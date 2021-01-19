@@ -1,8 +1,8 @@
-# React-Components-Insta-Clone
+# React-Components-Insta-Clone-----------------------------
 
 ## Composing React Components and Passing Data Via Props
 
-## Introduction
+## Introduction--------------
 
 - For this project, you'll be building a simple Instagram clone using React.
 - There is a file provided called `dummy-data.js` that contains some mock data. Each object in the mock data represents a faux Instagram post.
